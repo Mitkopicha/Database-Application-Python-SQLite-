@@ -5,12 +5,19 @@ The goal was to build a small but realistic store management system that lets us
 
 
 Features:
+
 SQLite database integration for data storage
+
 Command-line interface (CLI) for an interactive user experience
+
 Shopper login simulation using shopper IDs
+
 View and manage baskets (add, remove, or update items)
+
 Place and view orders with linked products and sellers
+
 Data persistence between sessions
+
 Error handling and clean database operations
 
 🗂️ Project Structure
