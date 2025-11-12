@@ -1,51 +1,45 @@
 Database Application (Python + SQLite)
 
-This project is a command-line application built in Python that manages customer orders and shopping baskets using an SQLite database. It was developed as part of a university module focused on problem-solving through programming and database interaction.
-The goal was to build a small but realistic store management system that lets users browse products, manage their basket, and place orders — all handled through SQL queries and Python logic.
+This is a **Python command-line application** that manages customers, baskets, and orders using an **SQLite database**.  
+It was created as a university project focused on learning how to combine **Python programming** with **SQL-based data handling**.  
+The system simulates a small online store where users can browse items, add them to a basket, and place orders — all stored locally in an SQLite database.
 
+---
+Features
 
-Features:
+- Store and manage data using **SQLite**
+- Simple **command-line interface (CLI)** for interaction
+- Shopper login using an existing ID
+- View, add, update, or remove basket items
+- Checkout to create and store customer orders
+- Persistent data across sessions
+- Structured error handling and clean database logic
 
-SQLite database integration for data storage
+---
 
-Command-line interface (CLI) for an interactive user experience
-
-Shopper login simulation using shopper IDs
-
-View and manage baskets (add, remove, or update items)
-
-Place and view orders with linked products and sellers
-
-Data persistence between sessions
-
-Error handling and clean database operations
-
-🗂️ Project Structure
-
+## 📁 Project Structure
 Database-Application-Python-SQLite-/
 │
-├── Assessment_Python&SQL.py      # Main Python program
-├── create_orinoco_db.sql         # SQL script for creating tables and sample data
-├── AssessmentDB                  # SQLite database file
-├── Python_code.txt               # Text copy of the main code
-└── README.md                     # Project documentation
+├── Assessment_Python&SQL.py # Main Python program
+├── create_orinoco_db.sql # SQL script for database schema and seed data
+├── AssessmentDB # SQLite database file (auto-generated after setup)
+├── Python_code.txt # Backup copy of the main Python code
+└── README.md # Project documentation
 
-⚙️ How to Run
+---
 
-Clone this repository:
+## ▶️ How to Run
 
-git clone https://github.com/Mitkopicha/Database-Application-Python-SQLite-.git
-cd Database-Application-Python-SQLite-
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Mitkopicha/Database-Application-Python-SQLite-.git
+   cd Database-Application-Python-SQLite-
 
-
-Run the program in Python:
-
+2. Run the main script:
 python Assessment_Python&SQL.py
 
 
-When prompted:
-
+3. Enter a shopper ID when prompted:
 Enter your shopper id: 1
+(You can use shopper ID 1 or 2, as defined in the SQL seed data.)
 
-
-You can use shopper ID 1 or 2 (as defined in the SQL seed data).
