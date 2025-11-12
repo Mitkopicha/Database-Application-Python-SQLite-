@@ -21,6 +21,7 @@ Data persistence between sessions
 Error handling and clean database operations
 
 🗂️ Project Structure
+
 Database-Application-Python-SQLite-/
 │
 ├── Assessment_Python&SQL.py      # Main Python program
