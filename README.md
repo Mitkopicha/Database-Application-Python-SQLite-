@@ -25,6 +25,48 @@ Database-Application-Python-SQLite-/
 ├── AssessmentDB # SQLite database file (auto-generated after setup)
 ├── Python_code.txt # Backup copy of the main Python code
 └── README.md # Project documentation
+---
+ 
+ Screenshots 
+
+
+
+
+
+
+ 
+ 1.Main 
+
+ 
+ <img width="325" height="242" alt="MAIN" src="https://github.com/user-attachments/assets/ca7ec29a-a87c-4654-a9eb-3d63321894f8" />
+
+ 2. View Basket 
+<img width="458" height="275" alt="VIEWBASKET" src="https://github.com/user-attachments/assets/e20fa7e8-4deb-4b8b-b880-4e3b38910615" />
+
+
+
+3. Change Basket 
+
+<img width="494" height="199" alt="Changebasket" src="https://github.com/user-attachments/assets/ff639dd4-3828-42ce-a20b-84a451f8767a" />
+
+
+4.Order History 
+
+<img width="584" height="242" alt="orderhistory" src="https://github.com/user-attachments/assets/0a346a88-dd42-4229-b416-1bc6e8f23111" />
+
+
+5. Remove Basket 
+<img width="469" height="119" alt="removebasket" src="https://github.com/user-attachments/assets/4418ce1c-fb69-4833-8560-100511447152" />
+
+
+
+
+6. Checkout
+<img width="359" height="70" alt="checkout" src="https://github.com/user-attachments/assets/a68d995a-da73-48b1-9700-b14342dd7b95" />
+
+
+
+
 
 ---
 
@@ -39,7 +81,9 @@ Database-Application-Python-SQLite-/
 python Assessment_Python&SQL.py
 
 
-3. Enter a shopper ID when prompted:
+
+
+4. Enter a shopper ID when prompted:
 Enter your shopper id: 1
 (You can use shopper ID 1 or 2, as defined in the SQL seed data.)
 
