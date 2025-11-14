@@ -8,11 +8,17 @@ The system simulates a small online store where users can browse items, add them
 Features
 
 Store and manage data using **SQLite**
+
 Simple **command-line interface (CLI)** for interaction
+
 Shopper login using an existing ID
+
 View, add, update, or remove basket items
+
 Checkout to create and store customer orders
+
 Persistent data across sessions
+
 Structured error handling and clean database logic
 
 ---
