@@ -20,15 +20,15 @@ Features
 ## 📁 Project Structure
 Database-Application-Python-SQLite/
 
-Assessment_Python&SQL.py       
+-Assessment_Python&SQL.py       
 
-create_orinoco_db.sql          
+-create_orinoco_db.sql          
                                 
-AssessmentDB                
+-AssessmentDB                
                                  
-Python_code.txt                
+-Python_code.txt                
 
-README.md  
+-README.md  
 
 
 
