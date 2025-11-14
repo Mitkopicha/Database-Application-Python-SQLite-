@@ -18,12 +18,22 @@ Features
 ---
 
 ## 📁 Project Structure
-Database-Application-Python-SQLite-/
-Assessment_Python&SQL.py # Main Python program
-create_orinoco_db.sql # SQL script for database schema and seed data
-AssessmentDB # SQLite database file (auto-generated after setup)
-Python_code.txt # Backup copy of the main Python code
-README.md # Project documentation
+Database-Application-Python-SQLite/
+│
+├── Assessment_Python&SQL.py       
+│
+├── create_orinoco_db.sql          
+│                                  
+│
+├── AssessmentDB                
+│                                  
+│
+├── Python_code.txt                
+│
+└── README.md  
+
+
+
 ---
  
  Screenshots 
